@@ -5,7 +5,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+
 </div>
 
 <!--Header Name-->
@@ -21,7 +21,6 @@
 - Bootcamps comenzamos en abril 2024:
 - Azure Data Science (12 semanas)
 - Xperience Data Science (desarrollo de proyectos en equipos mensualamente) 
--
 - 💻 Visita mi [Portfolio](#) para conocer mas...
 <!--End Intro-->
 
