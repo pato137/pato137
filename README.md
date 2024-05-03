@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--Banner-->
-![pato137 Banner Image](https://github.com/pato137/portfolioSuarezSergio/blob/master/img/MediumHeader.jpg)
+<--![pato137 Banner Image](https://github.com/pato137/portfolioSuarezSergio/blob/master/img/MediumHeader.jpg)-->
 
 <!--Night Owl image-->
 <div>
