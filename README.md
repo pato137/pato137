@@ -9,7 +9,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> SOY SERGIO! 
+# SOY SERGIO! 
 *Analista en Sistemas*
 <br /> 
 
@@ -18,17 +18,14 @@
 
 - Actualmente me sigo capacitando en Java, incorporando tecnologias como SpringBoot y Api Rest.
 - Tambien ingrese al mundo de los DATOS, enfocandome en Base de Datos y Python.
--Bootcamps comenzamos en abril 2024:
-Azure Data Science (12 semanas)
-Xperience Data Science (desarrollo de proyectos en equipos mensualamente) 
+- Bootcamps comenzamos en abril 2024:
+- Azure Data Science (12 semanas)
+- Xperience Data Science (desarrollo de proyectos en equipos mensualamente) 
 -
 - 💻 Visita mi [Portfolio](#) para conocer mas...
 <!--End Intro-->
 
 <!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
-</p>
 
 ---
 <br />
@@ -36,7 +33,7 @@ Xperience Data Science (desarrollo de proyectos en equipos mensualamente)
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,spring,sqlserver,html,css,git,github,azure,vscode,postman&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,spring,html,css,git,github,azure,vscode,postman&perline=10"  />
 </p>
 
 <br />
@@ -57,7 +54,7 @@ Xperience Data Science (desarrollo de proyectos en equipos mensualamente)
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/pato137">
           <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
